@@ -1,0 +1,1 @@
+package leetcode1_10;/** * Created by liuzl on 2016/6/20. *//** * main * main * * @Author zc * @Create 2016-06-20-14:54 */public class main {    public static void main(String[] args) {        System.out.print(new No3_LongestSubstringWithoutRepeatingCharacters().lengthOfLongestSubstring("bpfbhmipx"));    }}
