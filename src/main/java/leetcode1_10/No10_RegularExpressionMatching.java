@@ -1,0 +1,1 @@
+package leetcode1_10;/** * No10_RegularExpressionMatching * https://leetcode.com/problems/regular-expression-matching/ * * @Author zc * @Create 2016-06-30-17:21 */public class No10_RegularExpressionMatching {    public boolean isMatch(String s, String p) {        return true;    }}
